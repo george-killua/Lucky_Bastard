@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Luck_Bastard_Api", "Luck_Bastard_Api\Luck_Bastard_Api.csproj", "{32FD8CCC-BE17-42E7-902B-6D082D94232A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data_Access", "Data_Access\Data_Access.csproj", "{03810301-0D9A-436C-A3ED-8D77E2FF05A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32FD8CCC-BE17-42E7-902B-6D082D94232A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FD8CCC-BE17-42E7-902B-6D082D94232A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FD8CCC-BE17-42E7-902B-6D082D94232A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FD8CCC-BE17-42E7-902B-6D082D94232A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03810301-0D9A-436C-A3ED-8D77E2FF05A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03810301-0D9A-436C-A3ED-8D77E2FF05A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03810301-0D9A-436C-A3ED-8D77E2FF05A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03810301-0D9A-436C-A3ED-8D77E2FF05A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CF3D3DB-E084-43BB-BF87-CE5604D76984}
+	EndGlobalSection
+EndGlobal
